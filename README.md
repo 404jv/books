@@ -53,6 +53,6 @@ Livros que estou lendo ou já li.
 
 ## Tipos
 1. Educação em geral (As armas da persuasão)
-2. Técnico (Programador Pragmático)
+2. Técnico (Entendendo Algoritmos)
 3. Investimentos
 4. Ficção
