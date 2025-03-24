@@ -42,7 +42,8 @@ Livros que estou lendo ou já li.
   📆 2024
 17. 🟢 As armas da persuasão: Como influenciar e não se deixar influenciar - Robert B. Cialdini <br/>
   📆 2025
-18. 🟡 O Programador Pragmático: De Aprendiz a Mestre
+18. 🟢 Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Bhargava <br/>
+  📆 2025
 
 ## 🌟 Wishlist
 - O Mais importante para o investido - Howard Marks
